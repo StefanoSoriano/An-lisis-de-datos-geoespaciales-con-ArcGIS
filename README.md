@@ -1,8 +1,8 @@
 
 # Análisis de datos geoespaciales con ArcGIS Pro del Environmental System Research Institute (ESRI)
 
-##### Certificado de asistencia al MOOC: 
+##### Certificación: 
 
 <img src="Certificado de ESRI.png?raw=true"/>
 
-###### Fuente: Environmental System Research Institute
+###### Fuente: Environmental System Research Institute (ESRI).
