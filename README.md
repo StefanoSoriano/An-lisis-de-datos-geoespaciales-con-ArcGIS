@@ -1,4 +1,5 @@
-# Coordenas geográficas
+# Análisis de datos geoespaciales con ArcGIS Pro del Environmental System Research Institute (ESRI)
+## Coordenas geográficas
 **Archivos .kml** *Google Earth*
 
 ### En ocasiones cuando analizamos datos georrelacionados nos interesa calcular la distancia directa entre dos coordenadas geográficas, este repositorio contiene una función en R que permite calcularla, también contiene una query en T-SQL combinada con lenguaje XML para obtener las coordenadas geográficas de los archivos .kml de Google Earth.
@@ -182,9 +183,6 @@ SELECT *
 FROM Geocoordinates;
 GO
 ```
-
-# Análisis de datos geoespaciales con ArcGIS Pro del Environmental System Research Institute (ESRI)
-
 ##### Certificación: 
 
 <img src="Certificado de ESRI.png?raw=true"/>
